@@ -1544,7 +1544,7 @@ input, select, textarea {
 
 		#header h1 {
 			position: absolute;
-			left: 40px;
+			left: 20px;
 			top: 0;
 			color: #fff;
 			font-size: 2.4em;
@@ -1559,7 +1559,7 @@ input, select, textarea {
 
 		#header nav {
 			position: absolute;
-			right: 40px;
+			right: 20px;
 			top: 1px;
 			line-height: 84px;
 			/* text-transform: lowercase; */
