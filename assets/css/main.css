@@ -141,6 +141,7 @@ input, select, textarea {
 
 	img.left {
 		float: left;
+		object-fit: scale-down;
 				margin: 2px 1.25em 0 0;
 	}
 	img {
