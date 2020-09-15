@@ -141,14 +141,18 @@ input, select, textarea {
 
 	img.left {
 		float: left;
-		object-fit: scale-down;
+		object-fit: contain;
 				margin: 2px 1.25em 0 0;
 	}
 	img {
-    object-fit: scale-down;
+    object-fit: contain;
 		margin: 2px 1.25em 0 0;;
 }
-
+img.right {
+	float: right;
+	object-fit: contain;
+			margin: 2px 1.25em 0 0;
+		}
 	img.top {
 		margin: 4px 0 2.25em 0;
 	}
