@@ -4,7 +4,7 @@ https://aswathymur.github.io/Intro-To-IT--Group1/?fbclid=IwAR3Pp7vyxORZf4kXAyJYT
 
 To do list:
 
-- Get rid of/Replace the side junk links in the "Ideal Jobs", "Tools" and "Project Ideas" section.
+- Get rid of/Replace the side and bottom junk links in the "Ideal Jobs", "Tools" and "Project Ideas" section.
 
 - Fix up the formatting with the images in the "IT Tech" section.
 
