@@ -187,7 +187,7 @@ img.right {
 	.container {
 		margin: 0 auto;
 		max-width: 100%;
-		width: 1300px;
+		width: 1500px;
 	}
 
 		@media screen and (max-width: 1680px) {
