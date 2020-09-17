@@ -8,6 +8,10 @@ To do list:
 
 - Get rid of/Replace the side junk links in the "Ideal Jobs", "Tools" and "Project Ideas" section.
 
+- Fix up the formatting with the images in the "IT Tech" section.
+
+- Update text and add the links in the "Tools" section.
+
 - Add the enlarged version of the personal images to the "Meet the Team" section.
 
 
