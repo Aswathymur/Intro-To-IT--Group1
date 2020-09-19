@@ -4,15 +4,13 @@ https://aswathymur.github.io/Intro-To-IT--Group1/?fbclid=IwAR3Pp7vyxORZf4kXAyJYT
 
 To do list:
 
-- Get rid of/Replace the side junk links in the "Ideal Jobs", "Tools" and "Project Ideas" section. (done)
-
-- Get rid of/Replace the bottom junk links. (done)
-
 - Fix up the formatting with the images in the "IT Tech" section.
 
 - Update text and add the links in the "Tools" section.
 
 - Add the enlarged version of the personal images to the "Meet the Team" section.
+
+- Add Group Reflections section
 
 
 
@@ -20,7 +18,7 @@ Extra:
 
 - Include some more images, especially to the "Ideal Jobs", "Tools" and "Project Ideas" section.
 
-- Make the pages more colourful? (might be a little less professional so maybe not)
+- Make the pages more colourful? (might make it less professional so maybe not)
 
 
 
