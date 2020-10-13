@@ -2364,27 +2364,42 @@ input, select, textarea {
 		}
 
 /* Tables */
+tr {
+font-weight: bold;
+}
+	table{
 
-	table {
-		width: 100%;
+padding: 0.5em 1em 0.5em 1em;
+		border: 1px solid black;
 	}
+th, td {
+font-weight: normal;
+padding: 0.2em .2em 0.2em .2em;
+border: 1px solid black;
+}
+
 
 		table.default {
 			width: 100%;
+			border radius: 1px solid black;
 		}
 
 			table.default tbody tr {
+padding: 0.5em 1em 0.5em 1em;
 				border-bottom: solid 1px #e0e0e0;
 			}
 
 			table.default td {
 				padding: 0.5em 1em 0.5em 1em;
+
 			}
 
 			table.default th {
 				font-weight: 600;
+				font-weight: bold;
 				padding: 0.5em 1em 0.5em 1em;
 				text-align: left;
+
 			}
 
 			table.default thead {
