@@ -2695,12 +2695,12 @@ padding: 0.5em 1em 0.5em 1em;
 		height: 400px;
 		width: 2560px;
 		text-align: center;
-		position:
+		position:fixed;
 	}
 
 		#banner header {
-			position: absolute;
-			bottom: 186px;
+			position: fixed;
+			bottom: 0;
 			left: 0;
 			width: 100%;
 			background: #212121;
