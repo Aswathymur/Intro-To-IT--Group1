@@ -2692,14 +2692,15 @@ padding: 0.5em 1em 0.5em 1em;
 		background-image: url("../../images/banner.jpg");
 		background-position: center center;
 		background-size: contain;
-		height: 23.5em;
+		height: 400px;
+		width: 2560px;
 		text-align: center;
-		position: relative;
+		position:
 	}
 
 		#banner header {
 			position: absolute;
-			bottom: 0;
+			bottom: 186px;
 			left: 0;
 			width: 100%;
 			background: #212121;
@@ -2840,7 +2841,8 @@ padding: 0.5em 1em 0.5em 1em;
 		/* Banner */
 
 			#banner {
-				height: 24em;
+				height: 400px;
+				width: 1600px;
 			}
 
 	}
@@ -2885,7 +2887,8 @@ padding: 0.5em 1em 0.5em 1em;
 		/* Banner */
 
 			#banner {
-				height: 20em;
+				height: 400px;
+				width: 1600px;
 			}
 
 		/* Wrapper */
@@ -2997,7 +3000,8 @@ padding: 0.5em 1em 0.5em 1em;
 		/* Banner */
 
 			#banner {
-				height: 20em;
+				height: 400px;
+				width: 1600px;
 			}
 
 				#banner header h2 {
@@ -3290,7 +3294,8 @@ padding: 0.5em 1em 0.5em 1em;
 		/* Banner */
 
 			#banner {
-				height: 18em;
+				height: 400px;
+				width: 1600px;
 			}
 
 		/* Wrapper */
@@ -3346,7 +3351,8 @@ padding: 0.5em 1em 0.5em 1em;
 		/* Banner */
 
 			#banner {
-				height: 20em;
+				height: 400px;
+				width: 1600px;
 			}
 
 				#banner header {
