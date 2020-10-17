@@ -2691,8 +2691,8 @@ padding: 0.5em 1em 0.5em 1em;
 	#banner {
 		background-image: url("../../images/banner.jpg");
 		background-position: center center;
-		background-size: cover;
-		height: 28em;
+		background-size: contain;
+		height: 23.5em;
 		text-align: center;
 		position: relative;
 	}
